@@ -1,1 +1,1 @@
-# Singly-And-Doubly-Linkedlist
+# Linked List - Singly
